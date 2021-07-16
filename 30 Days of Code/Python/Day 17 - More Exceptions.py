@@ -16,4 +16,4 @@ for i in range(T):
         ans=myCalculator.power(n,p)
         print(ans)
     except Exception as e:
-        print(e)   
+        print(e)
