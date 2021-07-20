@@ -1,6 +1,6 @@
 # 30 Days of Code
 Solutions of all problem that I solved on HackerRank [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) challenge!
-I basically tried to solve these problems in two languages (Python and PHP). So, here solutions are avialable in both languages.
+I basically tried to solve these problems in two languages (Python and PHP). So, here solutions are avialable in both languages. (As not all languages support "Generics", fewer languages are enabled for this challenge ([Day 21](https://www.hackerrank.com/challenges/30-generics/problem)). So, I solved this using C++.)
 |#   | Day  | Title  | Solution  |
 |---|---|---|---|
 |  1 | Day 0   | Hello, World.  | [Python](https://github.com/tanjina-3ni/HackerRank-Solutions/blob/main/30%20Days%20of%20Code/Python/Day%200%20-%20Hello%2C%20World.py), [PHP](https://github.com/tanjina-3ni/HackerRank-Solutions/blob/main/30%20Days%20of%20Code/PHP/Day%200%20-%20Hello%2C%20World.php)   |
@@ -24,4 +24,5 @@ I basically tried to solve these problems in two languages (Python and PHP). So,
 |19 |Day 18|Queues and Stacks|[Python](https://github.com/tanjina-3ni/HackerRank-Solutions/blob/main/30%20Days%20of%20Code/Python/Day%2018%20-%20Queues%20and%20Stacks.py), [PHP](https://github.com/tanjina-3ni/HackerRank-Solutions/blob/main/30%20Days%20of%20Code/PHP/Day%2018%20-%20Queues%20and%20Stacks.php)|
 |20 |Day 19|Interfaces|[Python](https://github.com/tanjina-3ni/HackerRank-Solutions/blob/main/30%20Days%20of%20Code/Python/Day%2019%20-%20Interfaces.py), [PHP](https://github.com/tanjina-3ni/HackerRank-Solutions/blob/main/30%20Days%20of%20Code/PHP/Day%2019%20-%20Interfaces.php)|
 |21 |Day 20|Sorting|[Python](https://github.com/tanjina-3ni/HackerRank-Solutions/blob/main/30%20Days%20of%20Code/Python/Day%2020%20-%20Sorting.py), [PHP](https://github.com/tanjina-3ni/HackerRank-Solutions/blob/main/30%20Days%20of%20Code/PHP/Day%2020%20-%20Sorting.php)|
+|22 |Day 21|Generics|[C++](https://github.com/tanjina-3ni/HackerRank-Solutions/blob/main/30%20Days%20of%20Code/Day%2021%20-%20Generics.cpp)|
 
