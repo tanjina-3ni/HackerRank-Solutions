@@ -26,6 +26,11 @@ I basically tried to solve these problems in two languages (Python and PHP). So,
 |21 |Day 20|Sorting|[Python](https://github.com/tanjina-3ni/HackerRank-Solutions/blob/main/30%20Days%20of%20Code/Python/Day%2020%20-%20Sorting.py), [PHP](https://github.com/tanjina-3ni/HackerRank-Solutions/blob/main/30%20Days%20of%20Code/PHP/Day%2020%20-%20Sorting.php)|
 |22 |Day 21|Generics|[C++](https://github.com/tanjina-3ni/HackerRank-Solutions/blob/main/30%20Days%20of%20Code/Day%2021%20-%20Generics.cpp)|
 |23 |Day 22|Binary Search Trees|[Python](https://github.com/tanjina-3ni/HackerRank-Solutions/blob/main/30%20Days%20of%20Code/Python/Day%2022%20-%20Binary%20Search%20Trees.py)|
+|24 |Day 23|BST Level-Order Traversal|---|
+|25 |Day 24|More Linked Lists|---|
+|26 |Day 25|Running Time and Complexity|---|
+|27 |Day 26|Nested Logic|---|
+|28 |Day 27|Testing|---|
 |29 |Day 28|RegEx, Patterns, and Intro to Databases|[Python](https://github.com/tanjina-3ni/HackerRank-Solutions/blob/main/30%20Days%20of%20Code/Python/Day%2028%20-%20RegEx%2C%20Patterns%2C%20and%20Intro%20to%20Databases.py), [PHP](https://github.com/tanjina-3ni/HackerRank-Solutions/blob/main/30%20Days%20of%20Code/PHP/Day%2028%20-%20RegEx%2C%20Patterns%2C%20and%20Intro%20to%20Databases.php)|
 |30 |Day 29|Bitwise AND|[Python](https://github.com/tanjina-3ni/HackerRank-Solutions/blob/main/30%20Days%20of%20Code/Python/Day%2029%20-%20Bitwise%20AND.py), [PHP](https://github.com/tanjina-3ni/HackerRank-Solutions/blob/main/30%20Days%20of%20Code/PHP/Day%2029%20-%20Bitwise%20AND.php)|
 
