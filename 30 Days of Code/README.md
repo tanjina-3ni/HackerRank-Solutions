@@ -26,8 +26,8 @@ I basically tried to solve these problems in two languages (Python and PHP). So,
 |21 |Day 20|Sorting|[Python](https://github.com/tanjina-3ni/HackerRank-Solutions/blob/main/30%20Days%20of%20Code/Python/Day%2020%20-%20Sorting.py), [PHP](https://github.com/tanjina-3ni/HackerRank-Solutions/blob/main/30%20Days%20of%20Code/PHP/Day%2020%20-%20Sorting.php)|
 |22 |Day 21|Generics|[C++](https://github.com/tanjina-3ni/HackerRank-Solutions/blob/main/30%20Days%20of%20Code/Day%2021%20-%20Generics.cpp)|
 |23 |Day 22|Binary Search Trees|[Python](https://github.com/tanjina-3ni/HackerRank-Solutions/blob/main/30%20Days%20of%20Code/Python/Day%2022%20-%20Binary%20Search%20Trees.py)|
-|24 |Day 23|BST Level-Order Traversal|---|
-|25 |Day 24|More Linked Lists|---|
+|24 |Day 23|BST Level-Order Traversal|[Python](https://github.com/tanjina-3ni/HackerRank-Solutions/blob/main/30%20Days%20of%20Code/Python/Day%2023%20-%20BST%20Level-Order%20Traversal.py), [PHP](https://github.com/tanjina-3ni/HackerRank-Solutions/blob/main/30%20Days%20of%20Code/PHP/Day%2023%20-%20BST%20Level-Order%20Traversal.php)|
+|25 |Day 24|More Linked Lists|[Python](https://github.com/tanjina-3ni/HackerRank-Solutions/blob/main/30%20Days%20of%20Code/Python/Day%2024%20-%20More%20Linked%20Lists.py), [PHP](https://github.com/tanjina-3ni/HackerRank-Solutions/blob/main/30%20Days%20of%20Code/PHP/Day%2024%20-%20More%20Linked%20Lists.php)|
 |26 |Day 25|Running Time and Complexity|---|
 |27 |Day 26|Nested Logic|---|
 |28 |Day 27|Testing|---|
